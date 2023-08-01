@@ -160,3 +160,8 @@ cython_debug/
 #.idea/
 
 artifacts/*
+
+path_to_save_checkpoints/*
+# tensorboard_log_directory/*
+
+.DS_Store
